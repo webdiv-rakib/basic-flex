@@ -2,6 +2,14 @@
     padding: 50px;
     background-color: aquamarine;
     display: flex;
+    gap: 15px;
+    /* justify-content: center; */
+    /* justify-content: space-evenly; */
+    justify-content: space-between;
+    height: 350px;
+    align-items: center;
+    /* flex-direction: column; */
+    flex-wrap: wrap;
 }
 .child{
     border: 2px solid chocolate;
