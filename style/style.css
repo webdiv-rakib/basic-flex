@@ -1,0 +1,13 @@
+.parent{
+    padding: 50px;
+    background-color: aquamarine;
+    display: flex;
+}
+.child{
+    border: 2px solid chocolate;
+    background-color: blueviolet;
+    padding: 20px;
+    font-size: 20px;
+    border-radius: 10px;
+    
+}
